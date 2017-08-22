@@ -1,0 +1,8 @@
+{"phone_numbers":[{"id":20317849,"country_code":"ES","created_at":"2016-12-02T13:36:45Z","number":"+34518808308","name":"+34 518 808 308","nickname":null,"display_number":"+34 518 808 308",
+"location":"","toll_free":false,"transcription":true,"recorded":true,"group_ids":[],"default_group_id":null,
+"greeting_ids":[20103249,20103289,20105729,20106265],"default_greeting_ids":[],
+"categorised_greetings":{"1":20105729,"2":20106265,"3":20103289,"4":20103249},
+"ivr_id":null,"schedule_id":null,"failover_number":null}],"next_page":null,"previous_page":null,"count":1}
+
+
+{"phone_numbers":[{"id":20317849,"greeting_ids":[20103249,20103289,20105729,20106265],"categorised_greetings":{"1":20105729,"2":20106265,"3":20103289,"4":20103249}}]}

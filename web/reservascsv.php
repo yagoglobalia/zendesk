@@ -1,0 +1,39 @@
+<?php
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+$con = mysqli_connect("localhost", "root","238500","zendesk") or die('Could not connect: ' . mysqli_error($con));
+
+$quer = "select locata, pasta, vueloidar, vuelovueltar, vueloidae, vuelovueltae from reservas";
+$resulth=mysqli_query($con,$quer);
+
+$out = "localizador;pasta;costeidar;costevueltar;costeida;costevuelta\n";
+
+while($rowa=mysqli_fetch_assoc($resulth))
+{
+
+
+$locata = $rowa['locata'];
+$pasta = $rowa['pasta'];
+$idar = $rowa['vueloidar'];
+$vueltar = $rowa['vuelovueltar'];
+$ida = $rowa['vueloidae'];
+$vuelta = $rowa['vuelovueltae'];
+
+$out .= $locata.";".$pasta.";".$idar.";".$vueltar.";".$ida.";".$vuelta."\r\n";	
+
+
+}
+
+    header('Content-type: text/plain');
+    header('Content-Disposition: attachment; filename="costesAEA.csv"');
+    /*
+    assign file content to a PHP Variable $content
+    */
+    
+
+echo $out;
+
+?>
+

@@ -1,0 +1,623 @@
+array(21) {
+  [0]=>
+  array(12) {
+    ["id"]=>
+    int(20102749)
+    ["name"]=>
+    string(7) "musica2"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(true)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(37) "/system/voice/uploads/0007/1949/1.mp3"
+    ["audio_name"]=>
+    string(5) "1.mp3"
+    ["upload_id"]=>
+    int(71949)
+    ["phone_number_ids"]=>
+    array(1) {
+      [0]=>
+      int(20317849)
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [1]=>
+  array(12) {
+    ["id"]=>
+    int(20102769)
+    ["name"]=>
+    string(7) "musica3"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(37) "/system/voice/uploads/0007/3085/3.mp3"
+    ["audio_name"]=>
+    string(5) "3.mp3"
+    ["upload_id"]=>
+    int(73085)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [2]=>
+  array(12) {
+    ["id"]=>
+    int(20103209)
+    ["name"]=>
+    string(11) "bienvenida1"
+    ["category_id"]=>
+    int(2)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/system/voice/uploads/0007/2449/bienvenida.mp3"
+    ["audio_name"]=>
+    string(14) "bienvenida.mp3"
+    ["upload_id"]=>
+    int(72449)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [3]=>
+  array(12) {
+    ["id"]=>
+    int(20103229)
+    ["name"]=>
+    string(7) "musica5"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(37) "/system/voice/uploads/0007/3545/9.mp3"
+    ["audio_name"]=>
+    string(5) "9.mp3"
+    ["upload_id"]=>
+    int(73545)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [4]=>
+  array(12) {
+    ["id"]=>
+    int(20103249)
+    ["name"]=>
+    string(7) "musica1"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(37) "/system/voice/uploads/0007/2489/8.mp3"
+    ["audio_name"]=>
+    string(5) "8.mp3"
+    ["upload_id"]=>
+    int(72489)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [5]=>
+  array(12) {
+    ["id"]=>
+    int(20103269)
+    ["name"]=>
+    string(7) "musica6"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(37) "/system/voice/uploads/0007/3565/7.mp3"
+    ["audio_name"]=>
+    string(5) "7.mp3"
+    ["upload_id"]=>
+    int(73565)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [6]=>
+  array(12) {
+    ["id"]=>
+    int(20103289)
+    ["name"]=>
+    string(7) "musica1"
+    ["category_id"]=>
+    int(3)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(58) "/system/voice/uploads/0007/2549/bensound-retrosoul__1_.mp3"
+    ["audio_name"]=>
+    string(26) "bensound-retrosoul__1_.mp3"
+    ["upload_id"]=>
+    int(72549)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [7]=>
+  array(12) {
+    ["id"]=>
+    int(20104445)
+    ["name"]=>
+    string(12) "buzon de voz"
+    ["category_id"]=>
+    int(1)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/system/voice/uploads/0007/3505/buzondevoz.mp3"
+    ["audio_name"]=>
+    string(14) "buzondevoz.mp3"
+    ["upload_id"]=>
+    int(73505)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [8]=>
+  array(12) {
+    ["id"]=>
+    int(20104465)
+    ["name"]=>
+    string(17) "espere un momento"
+    ["category_id"]=>
+    int(3)
+    ["default"]=>
+    bool(false)
+
+
+
+
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(51) "/system/voice/uploads/0007/2469/espereunmomento.mp3"
+    ["audio_name"]=>
+    string(19) "espereunmomento.mp3"
+    ["upload_id"]=>
+    int(72469)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [9]=>
+  array(12) {
+    ["id"]=>
+    int(20104485)
+    ["name"]=>
+    string(7) "musica4"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(38) "/system/voice/uploads/0007/3525/10.mp3"
+    ["audio_name"]=>
+    string(6) "10.mp3"
+    ["upload_id"]=>
+    int(73525)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [10]=>
+  array(12) {
+    ["id"]=>
+    int(20104525)
+    ["name"]=>
+    string(7) "musica3"
+    ["category_id"]=>
+    int(3)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(58) "/system/voice/uploads/0007/2589/bensound-funkysuspense.mp3"
+    ["audio_name"]=>
+    string(26) "bensound-funkysuspense.mp3"
+    ["upload_id"]=>
+    int(72589)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [11]=>
+  array(12) {
+    ["id"]=>
+    int(20104565)
+    ["name"]=>
+    string(7) "musica2"
+    ["category_id"]=>
+    int(3)
+    ["default"]=>
+    bool(false)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(55) "/system/voice/uploads/0007/3805/bensound-littleidea.mp3"
+    ["audio_name"]=>
+    string(23) "bensound-littleidea.mp3"
+    ["upload_id"]=>
+    int(73805)
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [12]=>
+  array(12) {
+    ["id"]=>
+    string(12) "voicemail_en"
+    ["name"]=>
+    string(14) "Predeterminado"
+    ["category_id"]=>
+    int(1)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(true)
+    ["active"]=>
+    bool(true)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/media/voice/default_en_voicemail_greeting.mp3"
+    ["audio_name"]=>
+    string(16) "voicemail_en.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(1) {
+      [0]=>
+      int(20317849)
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [13]=>
+  array(12) {
+    ["id"]=>
+    string(12) "voicemail_jp"
+    ["name"]=>
+    string(25) "Predeterminado (japonés)"
+    ["category_id"]=>
+    int(1)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/media/voice/default_jp_voicemail_greeting.mp3"
+    ["audio_name"]=>
+    string(16) "voicemail_jp.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [14]=>
+  array(12) {
+    ["id"]=>
+    string(14) "voicemail_none"
+    ["name"]=>
+    string(7) "Ninguno"
+    ["category_id"]=>
+    int(1)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    NULL
+    ["audio_name"]=>
+    string(18) "voicemail_none.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [15]=>
+  array(12) {
+    ["id"]=>
+    string(12) "available_en"
+    ["name"]=>
+    string(14) "Predeterminado"
+    ["category_id"]=>
+    int(2)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(true)
+    ["active"]=>
+    bool(true)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/media/voice/default_en_available_greeting.mp3"
+    ["audio_name"]=>
+    string(16) "available_en.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(1) {
+      [0]=>
+      int(20317849)
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [16]=>
+  array(12) {
+    ["id"]=>
+    string(12) "available_jp"
+    ["name"]=>
+    string(25) "Predeterminado (japonés)"
+    ["category_id"]=>
+    int(2)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(46) "/media/voice/default_jp_available_greeting.mp3"
+    ["audio_name"]=>
+    string(16) "available_jp.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [17]=>
+  array(12) {
+    ["id"]=>
+    string(14) "available_none"
+    ["name"]=>
+    string(7) "Ninguno"
+    ["category_id"]=>
+    int(2)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    NULL
+    ["audio_name"]=>
+    string(18) "available_none.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [18]=>
+  array(12) {
+    ["id"]=>
+    string(7) "wait_en"
+    ["name"]=>
+    string(14) "Predeterminado"
+    ["category_id"]=>
+    int(3)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(true)
+    ["active"]=>
+    bool(true)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(41) "/media/voice/default_en_wait_greeting.mp3"
+    ["audio_name"]=>
+    string(11) "wait_en.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(1) {
+      [0]=>
+      int(20317849)
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [19]=>
+  array(12) {
+    ["id"]=>
+    string(7) "hold_en"
+    ["name"]=>
+    string(14) "Predeterminado"
+    ["category_id"]=>
+    int(4)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(true)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    string(41) "/media/voice/default_en_hold_greeting.mp3"
+    ["audio_name"]=>
+    string(11) "hold_en.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+  [20]=>
+  array(12) {
+    ["id"]=>
+    string(8) "ivr_none"
+    ["name"]=>
+    string(7) "Ninguno"
+    ["category_id"]=>
+    int(5)
+    ["default"]=>
+    bool(true)
+    ["default_lang"]=>
+    bool(false)
+    ["active"]=>
+    bool(false)
+    ["pending"]=>
+    bool(false)
+    ["audio_url"]=>
+    NULL
+    ["audio_name"]=>
+    string(12) "ivr_none.mp3"
+    ["upload_id"]=>
+    NULL
+    ["phone_number_ids"]=>
+    array(0) {
+    }
+    ["ivr_ids"]=>
+    array(0) {
+    }
+  }
+}
